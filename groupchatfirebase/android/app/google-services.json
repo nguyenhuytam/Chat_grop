@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "321100878555",
+    "project_id": "groupfirebase-62f66",
+    "storage_bucket": "groupfirebase-62f66.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321100878555:android:7f27564601b4e4fff1b2fe",
+        "android_client_info": {
+          "package_name": "com.example.groupchatfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2IHitiBEpvv_ug8dgrEe-JQiN64WTkh8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
